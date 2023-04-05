@@ -1,2 +1,2 @@
 # dino-game
-dino-game made by JAVA
+dino-game made with JAVA
